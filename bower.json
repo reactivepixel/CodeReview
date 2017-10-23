@@ -1,0 +1,24 @@
+{
+  "name": "node_seed",
+  "version": "0.1.0",
+  "authors": [
+    "Chapman <chapman@apextion.com>"
+  ],
+  "description": "Starting Seed Files",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "node",
+    "seed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
